@@ -1,5 +1,8 @@
 [![XD-Deepak - PMBOT](https://img.shields.io/static/v1?label=XD-Deepak&message=PMBOT&color=blue&logo=github)](https://github.com/XD-Deepak/PMBOT)
-# ⚜️ Personal Assistant Bot
+
+<h1 align="center"> 🇮🇳 Personal Assistant Bot 🇮🇳 </h1>
+
+
 Bot to manage your PMs as a personal assistant
 ### ⚜️ WHAT CAN THIS BOT DO
 Is it a nuisance to receive messages from strangers? Personal Assistant Bot is for you. 
@@ -17,6 +20,19 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 - Bot will send your reply to stranger. See how easy and safe it is.
 - Send /info as a reply to any message you received from a stranger to get his or her details.
 ```
+
+
+
+
+<details><summary> <h1 align="center">Official Support</h1> </summary>
+ 
+<a href="https://t.me/Darkbot_channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/Dark_bot_chit_chat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Nikkuiii)
+
+</details>
 
 ### ⚜️ COMMANDS 
 
