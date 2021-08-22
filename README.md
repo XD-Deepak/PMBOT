@@ -1,3 +1,4 @@
+[![XD-Deepak - PMBOT](https://img.shields.io/static/v1?label=XD-Deepak&message=PMBOT&color=blue&logo=github)](https://github.com/XD-Deepak/PMBOT)
 # ⚜️ Personal Assistant Bot
 Bot to manage your PMs as a personal assistant
 ### ⚜️ WHAT CAN THIS BOT DO
