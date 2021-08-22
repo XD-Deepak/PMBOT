@@ -11,6 +11,19 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-Deepak/PMBOT)
 
+
+
+<details><summary> <h1 align="center">Official Support</h1> </summary>
+ 
+<a href="https://t.me/nikkuiii"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/Dil_se_dosti_official_family"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Nikkuiii)
+
+</details>
+
+
 ### ⚜️ HOW TO USE THIS BOT
 
 ```
@@ -22,17 +35,6 @@ This bot will help you to manage all your PMs and keep clean your chat list.
 ```
 
 
-
-
-<details><summary> <h1 align="center">Official Support</h1> </summary>
- 
-<a href="https://t.me/Darkbot_channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-
-<a href="https://t.me/Dark_bot_chit_chat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
-
-[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Nikkuiii)
-
-</details>
 
 ### ⚜️ COMMANDS 
 
